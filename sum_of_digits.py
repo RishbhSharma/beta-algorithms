@@ -8,3 +8,5 @@ def sod(num):
   for digit in num:
     sum+=int(digit)
   return int(sum)
+
+# IT CURRENTLY DOESN' WORK!
